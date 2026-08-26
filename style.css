@@ -63,7 +63,8 @@ img {
 }
 
 footer{
-    background-color: pink;
+    background-color: lightblue;
+    height: 4em;
 }
 
 /* TEMA ESCURO */
@@ -122,5 +123,6 @@ footer{
 }
 
 .tema-escuro footer{
-    background-color: red;
+    background-color: ;
+    color: ;
 }
